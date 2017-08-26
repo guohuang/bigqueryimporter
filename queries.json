@@ -1,0 +1,5 @@
+[{
+  "query" : " select * from `bigquery-public-data.hacker_news.full` limit 100",
+  "outputFileName": "result1.json"
+}
+]
